@@ -1,0 +1,15 @@
+
+/* 1. External CSS
+
+for simple projects - naming conflicts - if web app strong naming convetion and good organization, so not suitable
+
+also in App.jsx import Button from './Button.jsx'; so Button doesnt have own directory
+
+.button{
+  background-color: hsl(200, 100%, 50%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+} */

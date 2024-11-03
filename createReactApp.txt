@@ -1,0 +1,9 @@
+npm create vite@latest 
+
+Project name: ... card-component
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+cd card-component
+npm install
+npm run dev
